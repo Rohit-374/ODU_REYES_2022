@@ -5,7 +5,7 @@ kinetic_exp = []
 sigma_exp = []
 dsigma_exp=[]
   
-f = open('Fitting.txt','r')
+f = open('Data.txt','r')
 
 #Loop for storing data in list
 for row in f:
